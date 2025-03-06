@@ -1,0 +1,40 @@
+img {
+	width:500;
+
+	
+}
+
+
+h1 {
+   text-align: center;
+   font-family: 'freight-big-pro';
+   font-size: 80px;
+   font-weight: normal;
+   letter-spacing: -6.5px;
+   overflow-wrap: break-world;
+}
+
+
+.image-container {
+
+  text-align: center;
+
+}
+
+span {
+	font-family: Courier;
+}
+
+#specialStyle {
+	border: 2px solid blue;
+	width: 40%;
+	background-color: lightblue;
+	font-size: 32px;
+    
+}
+
+
+
+
+
+
