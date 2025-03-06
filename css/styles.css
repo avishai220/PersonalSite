@@ -33,6 +33,16 @@ span {
     
 }
 
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin: 5px 0; /* Adjust spacing between list items */
+    padding: 5px;  /* Optional: Reduce padding inside list items */
+    list-style-type: none; /* Removes default bullet points */
+}
 
 
 
